@@ -108,5 +108,3 @@ For questions, feedback, or collaboration, reach out at achyuthags755@gmail.com.
 
 ⭐ If you find this project helpful, please give it a star!
 ```
-
-Feel free to adjust the content, add your analysis details, or modify the contact and installation sections according to your specific needs!
